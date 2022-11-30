@@ -5,13 +5,13 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://witty-river-04241e700.2.azurestaticapps.net/index.html
+**Project Link** -https://witty-river-04241e700.2.azurestaticapps.net/
 **project demo video link** - 
 
 ## Azure technologies used for Project
 
 - Static web apps
-
+-chat bot
 
 ## Features and Functionalities 
 
@@ -32,11 +32,13 @@ Responsive Web Design
 The pages are fully designed with responsive buttons, text, images, etc. which looks pretty cool with almost all windows and devices. Not only the elements present in the website template but also responsive display ads which you placed on your site. All our templates are responsive for mobile with responsive email templates with a responsive HTML table. So, you won’t need to worry about the look of your website on different sizes of screens and build a website for free 
 
 ## Screenshots
-![Screenshot (119)](https://user-images.githubusercontent.com/117732273/204774867-18824c9a-b730-4641-8f57-52d565037c81.png)
-![Screenshot (120)](https://user-images.githubusercontent.com/117732273/204774891-fa10b0e1-fac8-4451-8a9f-6ed03625a2df.png)
-![Screenshot (121)](https://user-images.githubusercontent.com/117732273/204774918-0be1ab22-da43-42f9-bfa4-063db24cd574.png)
-![Screenshot (122)](https://user-images.githubusercontent.com/117732273/204774945-621374bc-9750-4869-a44c-da18261baedc.png)
-![Screenshot (123)](https://user-images.githubusercontent.com/117732273/204774967-3e0ae681-a54e-4089-b24f-2c3d77104ac2.png)
+![Screenshot (162)](https://user-images.githubusercontent.com/117732273/204803455-75da7bfb-2f87-4207-9875-5941eea798a9.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/117732273/204803503-5e4723ff-ccbd-4789-a976-b88b41d4ce83.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/117732273/204803556-08fe0333-778e-4c7d-94d5-f9030d52d2c1.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/117732273/204803592-4659327a-eca3-46bd-9ba4-b7e4324194f0.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/117732273/204803630-fab20bcf-e0d5-4964-b8cb-cc8a4be5c47b.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/117732273/204803676-24406665-b279-4802-8985-9e42b4544a39.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/117732273/204803741-05462869-6072-4430-836c-5a7623862829.png)
 
    
 ### About Us -
@@ -63,9 +65,10 @@ The pages are fully designed with responsive buttons, text, images, etc. which l
 ![Screenshot (136)](https://user-images.githubusercontent.com/117732273/204775979-8415ed94-69e7-4aa1-bc51-27a594602f36.png)
 
 
-### bot
+### chat bot
 
 
+![Screenshot (170)](https://user-images.githubusercontent.com/117732273/204803938-c256ad3e-12bc-457e-a01e-657785677196.png)
 
 
 ## Tech Stack 
@@ -74,4 +77,3 @@ The pages are fully designed with responsive buttons, text, images, etc. which l
 - HTML
 - CSS
 - JAVA
-
